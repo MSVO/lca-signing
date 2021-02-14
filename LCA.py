@@ -36,9 +36,12 @@ class FiniteCa1d:
         # todo
         return True
 
-    def get_neighbour_states(self, index):
+    def get_neighbour_states(Vself, index):
         neigh = (index + self.neighbourhood) % self.l
-        return self.cells[neigh]
+        states = list()
+        for i in neigh:
+            states.append(self.cells[tuple(i)])
+        return states
 
     def generate_next_configuration(self):
         neighbourhoods = list(map(self.get_neighbour_states, range(self.l)))
@@ -55,7 +58,6 @@ class FiniteCellularAutomata:
         self.n_states = n_states,
         self.neighbourhood = neighbourhood
         self.transition = transition
-        print(self.shape, neighbourhood.shape)
         assert neighbourhood.shape[1] == len(self.shape)
 
         if init_config is None:
@@ -69,14 +71,17 @@ class FiniteCellularAutomata:
         return True
 
     def get_neighbour_states(self, index):
-        neigh = (neighbourhood + index) % self.shape
-        return self.cells[tuple(neigh)]
+        neigh = (index + self.neighbourhood) % self.shape
+        states = list()
+        for i in neigh:
+            states.append(self.cells[tuple(i)])
+        return states
 
     def generate_indices(self):
         dim = len(self.shape)
         def get_indices_till(dim, shape):
             if dim == 1:
-                return [(i,) for i in range(shape[dim])]
+                return [(i,) for i in range(shape[dim-1])]
             else:
                 inner = get_indices_till(dim-1, shape)
                 outer = []
@@ -93,6 +98,9 @@ class FiniteCellularAutomata:
         new_config = np.asarray(list(map(self.transition, neighbourhoods))).reshape(self.shape)
         assert self.validate_config(new_config)
         self.cells = new_config
+
+    def get_config(self):
+        return self.cells
 
     def print_config(self):
         print(self.cells)
