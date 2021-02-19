@@ -7,12 +7,18 @@ class FiniteCellularAutomata:
     # neighbourhood is a list of relative indices in CA
     # Transition function takes len(neighbourhood) number of states and returns a state
 
-    def __init__(self, shape, n_states, neighbourhood, transition, init_config=None):
+    def __init__(self, shape, n_states, neighbourhood, transition, init_config=None, mode="normal"):
+        self.mode = mode
         self.shape = shape
-        self.n_states = n_states,
-        self.neighbourhood = neighbourhood
-        self.transition = transition
-        assert neighbourhood.shape[1] == len(self.shape)
+        self.n_states = n_states
+        if mode == "normal":
+            self.neighbourhood = neighbourhood
+            self.transition = transition
+            assert self.neighbourhood.shape[1] == len(self.shape)
+        elif mode == "composition":
+            self.all_neighs = neighbourhood
+            self.all_trans = transition
+        
 
         if init_config is None:
             self.cells = np.zeros(shape)
@@ -48,11 +54,21 @@ class FiniteCellularAutomata:
         
     def generate_next_configuration(self):
         # todo : generate indices of all cells
-        indices = self.generate_indices()
-        neighbourhoods = list(map(self.get_neighbour_states, indices))
-        new_config = np.asarray(list(map(self.transition, neighbourhoods))).reshape(self.shape)
-        assert self.validate_config(new_config)
-        self.cells = new_config
+        if self.mode == "normal":
+            indices = self.generate_indices()
+            neighbourhoods = list(map(self.get_neighbour_states, indices))
+            new_config = np.asarray(list(map(self.transition, neighbourhoods))).reshape(self.shape)
+            assert self.validate_config(new_config)
+            self.cells = new_config
+        elif self.mode == "composition":
+            indices = self.generate_indices()
+            for i in range(len(self.all_neighs)-1,-1,-1):
+                self.neighbourhood = self.all_neighs[i]
+                self.transition = self.all_trans[i]
+                neighbourhoods = list(map(self.get_neighbour_states, indices))
+                new_config = np.asarray(list(map(self.transition, neighbourhoods))).reshape(self.shape)
+                assert self.validate_config(new_config)
+                self.cells = new_config
 
     def get_config(self):
         return self.cells
