@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<parameters>
+	<CA_parameters dimension="2" neighbourhood="1,0;0,1" state_set="abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVW"/>
+	<algorithm_parameters numCA="250" p="0.25" q="0.5"/>
+</parameters>
