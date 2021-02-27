@@ -3,7 +3,7 @@ from PIL import Image
 from numpy import asarray
 
 
-class spacer:
+class Spacer:
     def __init__(self, spacelength):
         self.lim = spacelength
 
@@ -54,7 +54,7 @@ class spacer:
             if k == self.lim:
                 break
         
-        return chash
+        return ''.join([str(c) for c in chash])
 
 
 if __name__ == "__main__":
@@ -63,9 +63,9 @@ if __name__ == "__main__":
     hlen = 128
 
     # convert image to numpy array
-    image.save("veggies-before.jpg", "JPEG")
+    image.save("veggies-before.png", "PNG")
 
-    sp = spacer(hlen)
+    sp = Spacer(hlen)
 
     data = asarray(image)
     print(type(data))
@@ -79,15 +79,19 @@ if __name__ == "__main__":
     sp.erase(image)
     data = asarray(image)
     print(data)
-    image.save("veggies-erased.jpg", "JPEG")
+    image.save("veggies-erased.png", "PNG")
 
-    has = np.random.randint(0,high = 2, size = hlen)
+    has = ''.join([str(c) for c in np.random.randint(0,high = 2, size = hlen)])
     print(has)
     sp.insert(has,image)
     data = asarray(image)
     print(data)
-    image.save("veggies-after.jpg", "JPEG")
+    image.save("veggies-after.png", "PNG")
 
-    chas = sp.extract(image)
-
-    print((np.asarray(chas) == has).all())
+    after_image = Image.open("veggies-after.png").convert("L")
+    print(np.asarray(image) == np.asarray(after_image))
+    chas = sp.extract(after_image)
+    print(type(chas))
+    print(chas)
+    print(has)
+    print(chas == has)
