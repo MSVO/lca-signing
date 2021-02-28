@@ -37,7 +37,6 @@ ca = FiniteCellularAutomata(shape, n_states, neighbourhood, transition_func, ini
 
 while True:
     ca.generate_next_configuration()
-    ca.show_config()
     os.system('clear')
     ca.print_config()
     time.sleep(0.1)
