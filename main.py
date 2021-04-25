@@ -26,5 +26,8 @@ if __name__ == "__main__":
     save_signed_image(signed_img, image_name)
 
     # Verifying signature
-    # signed_img = open_signed_image(image_name)
+    signed_img = open_signed_image(image_name)
     signer.verify(signed_img)
+
+    # Calculating psnr
+    psnr = calculate_psnr(signed_img, img)
