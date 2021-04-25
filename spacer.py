@@ -8,6 +8,7 @@ class Spacer:
         self.lim = spacelength
 
     def erase(self, image):
+        image = image.copy()
         assert image.size[0] * image.size[1] > self.lim
         data = image.load()
         k = 0
@@ -21,8 +22,10 @@ class Spacer:
                     break
             if k == self.lim:
                 break
+        return image
 
     def insert(self, has, image):
+        image = image.copy()
         assert image.size[0] * image.size[1] > self.lim
         data = image.load()
         k = 0
@@ -34,6 +37,7 @@ class Spacer:
                     break
             if k == self.lim:
                 break
+        return image
 
     def extract(self, image):
         assert image.size[0] * image.size[1] > self.lim

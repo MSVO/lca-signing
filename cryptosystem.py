@@ -393,8 +393,8 @@ class FDM_CA_Cryptosystem():
             temp = []
             num=i
             for j in range(self.neighbourhood_size):
-                temp.append(self.state_set[num/(self.num_states**(self.neighbourhood_size-j-1))])
-                num-=(num/(self.num_states**(self.neighbourhood_size-j-1)))*(self.num_states**(self.neighbourhood_size-j-1))
+                temp.append(self.state_set[num//(self.num_states**(self.neighbourhood_size-j-1))])
+                num-=(num//(self.num_states**(self.neighbourhood_size-j-1)))*(self.num_states**(self.neighbourhood_size-j-1))
             nbhds.append(tuple(temp))
         return nbhds
 
@@ -758,7 +758,8 @@ if __name__=="__main__":
                 break
             else:
                 print("Invalid input. Please try again.")
-    except:
+    except Exception as e:
         print('Error: Invalid input.')
+        raise e
 
 

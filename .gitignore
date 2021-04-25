@@ -1,4 +1,6 @@
 __pycache__
-*.jpg
-*.png
-*.xml
+img/*.png
+img_raw/*.png
+keys/*.xml
+keys/*.json
+results/*.png
