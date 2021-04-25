@@ -1,0 +1,4611 @@
+<?xml version="1.0" ?>
+<public_key state_set="0123456789abcdef" neighbourhood="1,0;0,1" dimension="2">
+	<neighbourhood configuration="00">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="01">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="02">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="03">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="04">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="05">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="06">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="07">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="08">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="09">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="0a">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="0b">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="0c">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="0d">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="0e">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="0f">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="10">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="11">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="12">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="13">
+		<map state="0" next_state="1"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="14">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="15">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="a"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="0"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="16">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="a"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="17">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="18">
+		<map state="0" next_state="1"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="19">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="1a">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="0"/>
+		<map state="3" next_state="a"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="1"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="1b">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="1c">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="a"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="1d">
+		<map state="0" next_state="1"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="1e">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="1f">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="20">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="21">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="22">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="23">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="24">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="25">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="26">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="27">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="28">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="29">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="2a">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="2b">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="2c">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="2d">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="2e">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="2f">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="30">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="31">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="32">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="33">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="34">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="35">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="36">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="37">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="38">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="39">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="3a">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="3b">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="3c">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="3d">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="3e">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="3f">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="40">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="41">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="42">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="43">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="44">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="45">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="46">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="47">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="48">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="49">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="4a">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="4b">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="4c">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="4d">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="4e">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="4f">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="50">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="51">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="0"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="52">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="53">
+		<map state="0" next_state="1"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="a"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="54">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="55">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="a"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="b"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="3"/>
+		<map state="7" next_state="6"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="1"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="56">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="57">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="58">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="0"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="b"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="1"/>
+		<map state="d" next_state="3"/>
+		<map state="e" next_state="6"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="59">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="b"/>
+		<map state="2" next_state="a"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="6"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="1"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="5a">
+		<map state="0" next_state="1"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="5b">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="5c">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="7"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="f"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="5d">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="5e">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="5f">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="f"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="0"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="1"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="60">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="61">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="62">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="63">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="64">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="65">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="66">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="0"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="67">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="68">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="69">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="6a">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="a"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="0"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="6b">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="6c">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="6d">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="9"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="6e">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="6f">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="70">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="71">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="72">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="73">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="74">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="75">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="76">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="77">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="78">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="79">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="7a">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="7b">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="7c">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="7d">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="7e">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="7f">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="80">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="81">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="c"/>
+		<map state="3" next_state="e"/>
+		<map state="4" next_state="6"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="b"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="82">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="83">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="84">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="85">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="e"/>
+		<map state="2" next_state="8"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="2"/>
+		<map state="d" next_state="c"/>
+		<map state="e" next_state="6"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="86">
+		<map state="0" next_state="6"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="e"/>
+		<map state="4" next_state="b"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="1"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="87">
+		<map state="0" next_state="1"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="88">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="2"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="6"/>
+		<map state="6" next_state="0"/>
+		<map state="7" next_state="e"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="c"/>
+		<map state="a" next_state="b"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="f"/>
+		<map state="d" next_state="9"/>
+		<map state="e" next_state="8"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="89">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="d"/>
+		<map state="2" next_state="c"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="1"/>
+		<map state="6" next_state="8"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="e"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="9"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="b"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="8a">
+		<map state="0" next_state="e"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="6"/>
+		<map state="7" next_state="8"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="2"/>
+		<map state="d" next_state="f"/>
+		<map state="e" next_state="b"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="8b">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="8c">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="b"/>
+		<map state="2" next_state="c"/>
+		<map state="3" next_state="1"/>
+		<map state="4" next_state="6"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="e"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="8d">
+		<map state="0" next_state="e"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="b"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="8e">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="b"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="8f">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="a"/>
+		<map state="2" next_state="6"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="9"/>
+		<map state="7" next_state="e"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="1"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="0"/>
+		<map state="d" next_state="3"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="90">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="91">
+		<map state="0" next_state="6"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="c"/>
+		<map state="4" next_state="8"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="92">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="93">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="94">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="95">
+		<map state="0" next_state="b"/>
+		<map state="1" next_state="7"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="8"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="6"/>
+		<map state="c" next_state="9"/>
+		<map state="d" next_state="c"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="96">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="8"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="c"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="97">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="98">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="f"/>
+		<map state="2" next_state="6"/>
+		<map state="3" next_state="a"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="2"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="9"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="99">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="a"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="6"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="1"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="9a">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="3"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="b"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="8"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="6"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="9b">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="9c">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="8"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="6"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="9d">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="6"/>
+		<map state="3" next_state="8"/>
+		<map state="4" next_state="c"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="9"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="9e">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="8"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="f"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="9f">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="6"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="f"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a0">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a1">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="0"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a2">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a3">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a4">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a5">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="a"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="b"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="1"/>
+		<map state="d" next_state="9"/>
+		<map state="e" next_state="6"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a6">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="0"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="9"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a7">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="a"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a8">
+		<map state="0" next_state="b"/>
+		<map state="1" next_state="0"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="a"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="1"/>
+		<map state="6" next_state="7"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="6"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="3"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="a9">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="a"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="b"/>
+		<map state="5" next_state="1"/>
+		<map state="6" next_state="0"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="6"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="f"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="aa">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="8"/>
+		<map state="5" next_state="1"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="b"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="6"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ab">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ac">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="2"/>
+		<map state="2" next_state="a"/>
+		<map state="3" next_state="1"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="6"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="9"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ad">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ae">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="af">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="b"/>
+		<map state="3" next_state="a"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="1"/>
+		<map state="6" next_state="0"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="d"/>
+		<map state="d" next_state="8"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b0">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b1">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b2">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b3">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b4">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b5">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b6">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b7">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b8">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="b9">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ba">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="bb">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="bc">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="bd">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="be">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="bf">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c0">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c1">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c2">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c3">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c4">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c5">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="f"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="1"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="3"/>
+		<map state="7" next_state="a"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="6"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c6">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c7">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c8">
+		<map state="0" next_state="6"/>
+		<map state="1" next_state="0"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="1"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="c9">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="0"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ca">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="a"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="7"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="9"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="cb">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="cc">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="3"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="6"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="0"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="d"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="cd">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="a"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ce">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="a"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="f"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="cf">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="3"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="1"/>
+		<map state="4" next_state="6"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="9"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="2"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d0">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d1">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d2">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d3">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d4">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d5">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="f"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d6">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="f"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d7">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d8">
+		<map state="0" next_state="3"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="9"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="d9">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="2"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="da">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="f"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="db">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="dc">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="0"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="dd">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="7"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="de">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="df">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="7"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e0">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e1">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e2">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e3">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e4">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e5">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e6">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="9"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e7">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="f"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e8">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="7"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="e9">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ea">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="d"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="0"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="eb">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ec">
+		<map state="0" next_state="9"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="0"/>
+		<map state="4" next_state="7"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="2"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ed">
+		<map state="0" next_state="0"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="9"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="7"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ee">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="7"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ef">
+		<map state="0" next_state="7"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="9"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="0"/>
+		<map state="5" next_state="8"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="e"/>
+		<map state="a" next_state="c"/>
+		<map state="b" next_state="d"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="a"/>
+		<map state="e" next_state="3"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f0">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f1">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="b"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="6"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="2"/>
+		<map state="7" next_state="d"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="1"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f2">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f3">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="c"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="3"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f4">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f5">
+		<map state="0" next_state="f"/>
+		<map state="1" next_state="e"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="b"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="3"/>
+		<map state="7" next_state="6"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="1"/>
+		<map state="e" next_state="c"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f6">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="e"/>
+		<map state="3" next_state="1"/>
+		<map state="4" next_state="3"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="6"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="2"/>
+		<map state="e" next_state="b"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f7">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f8">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="d"/>
+		<map state="2" next_state="6"/>
+		<map state="3" next_state="3"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="1"/>
+		<map state="7" next_state="b"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="8"/>
+		<map state="c" next_state="2"/>
+		<map state="d" next_state="9"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="f9">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="0"/>
+		<map state="2" next_state="8"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="6"/>
+		<map state="5" next_state="1"/>
+		<map state="6" next_state="3"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="e"/>
+		<map state="b" next_state="c"/>
+		<map state="c" next_state="9"/>
+		<map state="d" next_state="f"/>
+		<map state="e" next_state="d"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="fa">
+		<map state="0" next_state="d"/>
+		<map state="1" next_state="f"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="c"/>
+		<map state="4" next_state="8"/>
+		<map state="5" next_state="2"/>
+		<map state="6" next_state="9"/>
+		<map state="7" next_state="0"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="e"/>
+		<map state="c" next_state="b"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="1"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="fb">
+		<map state="0" next_state="c"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="b"/>
+		<map state="4" next_state="f"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="1"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="fc">
+		<map state="0" next_state="e"/>
+		<map state="1" next_state="1"/>
+		<map state="2" next_state="d"/>
+		<map state="3" next_state="c"/>
+		<map state="4" next_state="2"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="6"/>
+		<map state="7" next_state="f"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="b"/>
+		<map state="e" next_state="9"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="fd">
+		<map state="0" next_state="2"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="3"/>
+		<map state="3" next_state="c"/>
+		<map state="4" next_state="b"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="1"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="f"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="fe">
+		<map state="0" next_state="b"/>
+		<map state="1" next_state="9"/>
+		<map state="2" next_state="1"/>
+		<map state="3" next_state="f"/>
+		<map state="4" next_state="c"/>
+		<map state="5" next_state="0"/>
+		<map state="6" next_state="d"/>
+		<map state="7" next_state="2"/>
+		<map state="8" next_state="4"/>
+		<map state="9" next_state="7"/>
+		<map state="a" next_state="a"/>
+		<map state="b" next_state="3"/>
+		<map state="c" next_state="8"/>
+		<map state="d" next_state="6"/>
+		<map state="e" next_state="e"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+	<neighbourhood configuration="ff">
+		<map state="0" next_state="a"/>
+		<map state="1" next_state="6"/>
+		<map state="2" next_state="2"/>
+		<map state="3" next_state="d"/>
+		<map state="4" next_state="e"/>
+		<map state="5" next_state="c"/>
+		<map state="6" next_state="3"/>
+		<map state="7" next_state="8"/>
+		<map state="8" next_state="1"/>
+		<map state="9" next_state="0"/>
+		<map state="a" next_state="b"/>
+		<map state="b" next_state="9"/>
+		<map state="c" next_state="4"/>
+		<map state="d" next_state="7"/>
+		<map state="e" next_state="f"/>
+		<map state="f" next_state="5"/>
+	</neighbourhood>
+</public_key>

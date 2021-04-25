@@ -10,10 +10,11 @@ if __name__ == "__main__":
     # Instantiate
     signer = ImageSigner()
     image_name = "pic_1"
+    key_identifier = "key1"
 
     # Generate key pair
     signer.generate_keys()
-    signer.save_keys("key1")
+    signer.save_keys(key_identifier)
 
     # Processing raw image
     img = open_image(image_name)
