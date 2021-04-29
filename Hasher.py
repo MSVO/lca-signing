@@ -51,7 +51,8 @@ class ImageHasher:
         return m_evolv
     
     def digest(self):
-        return hex(int(self.lcahash(self.image_as_bits, self.iv1, self.iv2, self.prime, self.rand_ind),2))[2:]
+        hval = hex(int(self.lcahash(self.image_as_bits, self.iv1, self.iv2, self.prime, self.rand_ind),2))[2:]
+        return "0"*((self.N//4)-len(hval)) + hval
     
 
 

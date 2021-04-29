@@ -1,24 +1,32 @@
 from PIL import Image
 import math
 import numpy as np
+import os
+
+RUN_ENV = os.getenv('RUN_ENV')
 
 def open_image(name):
     return Image.open("img_raw/{}.png".format(name)).convert("L")
 
 def open_signed_image(name):
-    return Image.open("results/{}-signed.png".format(name))
+    root = "results" if RUN_ENV == "main" else "test_results"
+    return Image.open("{}/{}-signed.png".format(root, name))
 
 def open_plain_image(name):
-    return Image.open("img/{}.png".format(name))
+    root = "img" if RUN_ENV == "main" else "test_img"
+    return Image.open("{}/{}.png".format(root, name))
 
 def save_signed_image(img, name):
-    img.save("results/{}-signed.png".format(name))
+    root = "results" if RUN_ENV == "main" else "test_results"
+    img.save("{}/{}-signed.png".format(root, name))
 
 def save_plain_image(img, name):
-    img.save("img/{}.png".format(name))
+    root = "img" if RUN_ENV == "main" else "test_img"
+    img.save("{}/{}.png".format(root, name))
 
 def save_corrupted_image(img, name):
-    img.save("results/{}-corrupted.png".format(name))
+    root = "results" if RUN_ENV == "main" else "test_results"
+    img.save("{}/{}-corrupted.png".format(root, name))
 
 def calculate_psnr(image, ref_image):
     print("Calculating PSNR")

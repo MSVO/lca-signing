@@ -1,8 +1,9 @@
+import os
+os.environ['RUN_ENV'] = "main"
 from util import *
 import numpy as np
 
 # Main Module
-
 from image_signer import ImageSigner        # Image Signer
 
 if __name__ == "__main__":

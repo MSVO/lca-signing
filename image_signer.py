@@ -7,6 +7,9 @@ from cryptosystem import FDM_CA_Cryptosystem, create_string_message, create_2D_m
 import json
 import libnum
 import random
+import os
+
+RUN_ENV = os.getenv('RUN_ENV')
 
 class ImageSigner:
 
@@ -30,10 +33,11 @@ class ImageSigner:
         print("-"*10)
 
     def save_keys(self, identifier):
+        root = "keys" if RUN_ENV == "main" else "test_keys"
         print("Saving keys")
-        pub_keyfile = "keys/{}.pub.xml".format(identifier)
-        priv_keyfile = "keys/{}.xml".format(identifier)
-        hash_paramfile = "keys/{}.hash_params.json".format(identifier)
+        pub_keyfile = "{}/{}.pub.xml".format(root, identifier)
+        priv_keyfile = "{}/{}.xml".format(root, identifier)
+        hash_paramfile = "{}/{}.hash_params.json".format(root, identifier)
         self.cr.write_key(pub_keyfile, "public")
         self.cr.write_key(priv_keyfile, "private")
         with open(hash_paramfile, "w") as fp:
@@ -47,44 +51,67 @@ class ImageSigner:
         pass
 
     def load_keys(self, identifier):
+        root = "keys" if RUN_ENV == "main" else "test_keys"
         print("Loading keys")
-        pub_keyfile = "keys/{}.pub.xml".format(identifier)
-        priv_keyfile = "keys/{}.xml".format(identifier)
-        hash_paramfile = "keys/{}.hash_params.json".format(identifier)
+        pub_keyfile = "{}/{}.pub.xml".format(root, identifier)
+        priv_keyfile = "{}/{}.xml".format(root, identifier)
+        hash_paramfile = "{}/{}.hash_params.json".format(root, identifier)
         self.cr.read_key(pub_keyfile, "public")
         self.cr.read_key(priv_keyfile, "private")
         with open(hash_paramfile, "r") as fp:
             self.hash_params = json.load(fp)
         print("-"*10)
 
-    def sign(self, image):
-        # self.cr.read_key(private_key_file, "private")
-        print("Signing an image")
+    def get_digest(self, image):
         iv1, iv2, prime, rand_ind = map(self.hash_params.get, ["iv1", "iv2", "prime", "rand_ind"])
         image = self.sp.erase(image)
         hval = ImageHasher(image, iv1=iv1, iv2=iv2, prime=prime, rand_ind=rand_ind).digest()
-        print("Hash:\t\t", hval)
+        return hval
+
+    def get_signature(self, hval):
         msg2d = create_2D_message(list(hval),list(str("0123456789abcdef")),8,8)
         signature = create_string_message(self.cr.decrypt(msg2d, self.num_gen),8,8)
-        print("Sign:\t\t", signature)
+        return signature
+
+    def insert(self, signature, image):
+        image = self.erase(image)
         signature_bin = self.hex_to_bin(signature)
-        print("-"*10)
         return self.sp.insert(signature_bin, image)
 
-    def verify(self, image):
-        # self.cr.read_key(public_key_file, "public")
-        print("Verifying a signed image")
-        iv1, iv2, prime, rand_ind = map(self.hash_params.get, ["iv1", "iv2", "prime", "rand_ind"])
+    def erase(self, image):
+        return self.sp.erase(image)
+
+    def sign(self, image):
+        print("Signing an image")
+        hval = self.get_digest(image)
+        print("Hash:\t\t", hval)
+        signature = self.get_signature(hval)
+        print("Sign:\t\t", signature)
+        print("-"*10)
+        return self.insert(signature, image)
+
+    def extract(self, image):
         signature_bin = self.sp.extract(image)
         signature = self.bin_to_hex(signature_bin)
-        print("Sign:\t\t", signature)
+        return signature
+
+    def retrieve_hash(self, signature):
         sig2d = create_2D_message(list(signature),list(str("0123456789abcdef")),8,8)
         hval_expected = create_string_message(self.cr.encrypt_with_composed_CA(sig2d, self.num_gen),8,8)
+        return hval_expected
+
+    def compare_hash(self, h1, h2):
+        return h1 == h2
+
+    def verify(self, image):
+        print("Verifying a signed image")
+        signature = self.extract(image)
+        print("Sign:\t\t", signature)
+        hval_expected = self.retrieve_hash(signature)
         print("Hash expected:\t", hval_expected)
-        image = self.sp.erase(image)
-        hval_observed = ImageHasher(image, iv1=iv1, iv2=iv2, prime=prime, rand_ind=rand_ind).digest()
+        hval_observed = self.get_digest(image)
         print("Hash_found:\t", hval_observed)
-        response = hval_expected == hval_observed
+        response = self.compare_hash(hval_expected, hval_observed)
         print("Success?:{}".format(response))
         print("-"*10)
         return response
